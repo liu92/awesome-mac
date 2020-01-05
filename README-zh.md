@@ -242,7 +242,7 @@
 * [medis](http://getmedis.com) - 漂亮的 Redis 管理软件。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/luin/medis)
 * [MongoDB](https://www.mongodb.com) - 一个基于分布式文件存储的数据库。 [![Open-Source Software][OSS Icon]](https://github.com/gcollazo/mongodbapp) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/ramnes/awesome-mongodb#desktop)
 * [MongoBooster](http://www.mongobooster.com/) - MongoDB 图形化管理软件，内嵌 MongoShell，ES6 语法，流畅查询及智能感知。![Freeware][Freeware Icon]
-* [mongoDB.app](https://gcollazo.github.io/mongodbapp/) - 在Mac 上最简单的使用 MongoDB [![Open-Source Software][OSS Icon]]
+* [mongoDB.app](https://gcollazo.github.io/mongodbapp/) - 在Mac 上最简单的使用 MongoDB。[![Open-Source Software][OSS Icon]](https://github.com/gcollazo/mongodbapp)
 * [Mongo Management Studio](http://www.litixsoft.de/english/mms/) - MongoDB 图形化客户端管理软件。
 * [MDB Explorer](http://www.macexplorer.co/en/mdb-explorer.php) - Mac 上查看编辑 Access 数据库的工具。
 * [MySQL Workbench](http://dev.mysql.com/downloads/workbench/) - MySQL 数据库官方管理软件。
@@ -346,6 +346,7 @@
 * [Teampaper Snap](http://teampaper.me/snap/) - 为设计师量身定做的屏幕截图兼注释工具。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/monosnap/id1199502670)
 * [截图(Jietu)](http://jietu.qq.com/) - 截图附带强大的标注功能，腾讯作品。![Freeware][Freeware Icon]
 * [Xnip](http://xnipapp.com/) - 免费好用的滚动截屏利器。[![App Store][app-store Icon]](https://itunes.apple.com/cn/app/xnip-handy-screenshot-app/id1221250572?l=en&mt=12) ![Freeware][Freeware Icon]
+* [iShot](https://www.better365.cn/) - 完全免费、功能全面的截图工具，支持贴图、滚动截图、延时截图等。 [![App Store][app-store Icon]](https://apps.apple.com/cn/app/ishot-%E6%88%AA%E5%9B%BE-%E9%95%BF%E6%88%AA%E5%9B%BE-%E6%A0%87%E6%B3%A8%E5%B7%A5%E5%85%B7/id1485844094?mt=12) ![Freeware][Freeware Icon]
 
 ### 其它工具
 
@@ -809,6 +810,7 @@
 * [SSH Tunnel](https://codinn.com/products/ssh-tunnel/) - 管理你的 SSH。
 * [TG Pro](https://www.tunabellysoftware.com/tgpro/) - 温度监控，风扇控制和硬件诊断，帮助您保持 Mac的 凉爽和健康。
 * [Tuxera NTFS](http://www.tuxera.com/products/tuxera-ntfs-for-mac/) - Mac 上的 NTFS 文件系统驱动。
+* [腾讯柠檬清理](https://lemon.qq.com/) - 一款免费的Mac系统清理软件，替代原来的Mac电脑管家，腾讯出品。
 
 ### 窗口管理
 
@@ -883,7 +885,6 @@
 
 *第三方应用市场APP黑名单，存在盗版软件传播和下载，拒绝盗版从我做起，欢迎大家监督它们。*
 
-* ~~[腾讯电脑管家](http://mac.guanjia.qq.com/)~~ - 电脑管家 for Mac 带应用市场。
 * ~~[迅雷Thunder Store](http://mac.xunlei.com/app/)~~ - 迅雷 Thunder for Mac 带应用市场。
 * ~~[Mac软件宝箱](http://box.macx.cn/)~~ - Macx 推出软件宝箱。
 * ~~[MacHunter](http://www.machunter.net/)~~ - Mac 应用市场。
@@ -899,6 +900,7 @@
 * 类似于iOS上Cydia一样的第三方软件商店：[http://hack-store.com](http://hack-store.com)
 * 少数派：[http://sspai.com/tag/Mac](http://sspai.com/tag/Mac)
 * Mac玩儿法：[http://www.waerfa.com](http://www.waerfa.com) ![Freeware][Freeware Icon]
+* 腾讯柠檬精选：[https://lemon.qq.com/lab/](https://lemon.qq.com/lab/)
 
 ### 盗版软件下载网站黑名单
 
